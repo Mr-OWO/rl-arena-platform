@@ -1,10 +1,11 @@
 # RL-Arena-Platform: Full-Stack RLHF Model Evaluation & Elo Leaderboard Dashboard
 
 [![CI](https://github.com/Mr-OWO/rl-arena-platform/actions/workflows/ci.yml/badge.svg)](https://github.com/Mr-OWO/rl-arena-platform/actions)
+[![Release](https://img.shields.io/github/v/release/Mr-OWO/rl-arena-platform?color=brightgreen)](https://github.com/Mr-OWO/rl-arena-platform/releases)
 [![NestJS](https://img.shields.io/badge/NestJS-10.0-red.svg)](https://nestjs.com/)
 [![React](https://img.shields.io/badge/React-18-blue.svg)](https://react.dev/)
 [![TailwindCSS](https://img.shields.io/badge/Tailwind-3.4-38bdf8.svg)](https://tailwindcss.com/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 A full-stack, enterprise-grade preference collection and evaluation platform for Reinforcement Learning from Human Feedback (RLHF) and model alignment. Features split-pane blind and open evaluations, live syntax-highlighted code diffing, multi-dimensional rubric scoring, real-time Elo rating computation, and statistical inter-annotator agreement metrics (Cohen's Kappa & Fleiss' Kappa).
 
